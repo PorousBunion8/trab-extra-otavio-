@@ -1,0 +1,9 @@
+.galeria div {
+    display: inline-block;
+    height: auto;
+    width: 200px;
+    max-width: 200px;
+    margin: 10px;
+
+  }
+  
